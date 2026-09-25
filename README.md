@@ -7,4 +7,7 @@
 2. YOU CAN CHECK THE STATUS  of the files just updated or added or created(basically what you want to push) USING..... git status
 3. STAGE THE CHANGES USING..... git add .
 4. commit the changes using..... git commit -m "your message"
-5. FINALLY PUSH 
+5. FINALLY PUSH  
+
+
+'edited readme'
